@@ -1,27 +1,17 @@
 ### PR Summary:
 
-<!-- Please include a short description (using non-technical terms, 1-2 sentences) about the changes you are introducing, what problem is being fixed and/or describe the benefit to merchants. This content will be used in our release notes for Dawn on [themes.shopify.com](https://themes.shopify.com/themes/dawn/styles/default#ReleaseNotes). -->
+<!-- All Comments in this PR template are merely guidelines that can and should be deleted once you've written up the final draft. -->
+
+<!-- Please include a short description (1-2 sentences) about the changes you are introducing, what problem is being fixed and/or describe the benefit. This content will be used in release notes. -->
 
 ### Why are these changes introduced?
 
-Fixes #0.
+### Misc Notes
 
-### What approach did you take?
+### QA Testing Steps/Scenarios
 
-### Other considerations
+<!-- What is the testing criteria for reviewers to QA this Pull Request -->
 
-### Visual or Functional Impact
+### Preview Link
 
-<!-- How will this visually affect merchants who upgrade to a new theme version with this change? -->
-
-### Testing steps/scenarios
-
-<!-- List all the testing tasks that applies to your fix to help peers review your work. -->
-
-- [ ] Step 1
-
-### Demo links
-
-<!-- Please include a link to a demo store that includes pre-configured sections and settings to allow reviewers to easily test the features you are working on. -->
-
-- [Store](url)
+Link:
