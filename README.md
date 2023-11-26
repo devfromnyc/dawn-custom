@@ -24,9 +24,9 @@ The master branch has select branch protections on it. To merge a pull request, 
 
 This repository also leverages Shopify Cli Theme Check and Prettier to ensure theme files follow the Shopify recognized architecture and that the code looks pretty!
 
-### Pull Requests
+### Pull Requests, Feature Requests and Bug Reporting
 
-### Feature Requests and Bug Reporting
+Templates for pull requests, feature requests, and bug reporting are contained in the github folder.
 
 ```
 
