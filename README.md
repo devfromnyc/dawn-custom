@@ -6,9 +6,13 @@ This is purely a development store where developers can improve on their Shopify
 
 ## How To Contribute - Getting started
 
+To contribute to this repository, you need to request access. Permissions are set via Shopify Theme Access. Once your github/Shopify account is authorized, Please read the issue and pull request templates located in the github folder.
+
 ### Shopify CLI
 
 You can follow this [quick start guide for theme developers](https://github.com/Shopify/shopify-cli#quick-start-guide-for-theme-developers) to get started.
+
+To connect to this store, you'll need a personal access token.
 
 ### Continuous Integration
 
@@ -20,9 +24,9 @@ The master branch has select branch protections on it. To merge a pull request, 
 
 This repository also leverages Shopify Cli Theme Check and Prettier to ensure theme files follow the Shopify recognized architecture and that the code looks pretty!
 
-## Contributing
+### Pull Requests
 
-To contribute to this repository, you need to request access. Permissions are set via Shopify Theme Access. Once your github/Shopify account is authorized, Please read the issue and pull request templates located in the github folder.
+### Feature Requests and Bug Reporting
 
 ```
 
